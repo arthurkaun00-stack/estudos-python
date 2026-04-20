@@ -29,4 +29,4 @@ pygame.mixer.music.load('Aleatorio/Sininho.mp3')
 pygame.mixer.music.play()
 while pygame.mixer.music.get_busy(): 
     pass
-print('Resultado: {} 😁'.format(res))
+print('Resultado: {} 😁 '.format(res))

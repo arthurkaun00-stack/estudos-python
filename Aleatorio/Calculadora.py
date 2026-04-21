@@ -11,7 +11,7 @@ operacao = input('Escreva tipo de operação ')
 if operacao == '+':
     res = n1 + n2
 elif operacao == '-':
-    res = n1 + n2
+    res = n1 - n2
 elif operacao == 'x':
     res = n1 * n2
 elif operacao == '/':
